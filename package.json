@@ -1,0 +1,13 @@
+{
+  "name": "rails_vue3_ts",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "5.2.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.5",
+    "vue": "^3.0.5",
+    "vue-loader": "^16.1.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
